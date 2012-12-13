@@ -302,6 +302,7 @@ AC_CONFIG_FILES([Makefile
                  keymaps/Makefile
                  man/Makefile
                  rules/Makefile
+                 rule_generator/Makefile
                  src/Makefile
                  src/accelerometer/Makefile
                  src/ata_id/Makefile
