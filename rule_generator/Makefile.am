@@ -3,7 +3,7 @@ ACLOCAL_AMFLAGS = -I m4 ${ACLOCAL_FLAGS}
 # ------------------------------------------------------------------------------
 # rule_generator - persistent network and optical device rule generator
 # ------------------------------------------------------------------------------
-dist_libexec_SCRIPTS = \
+dist_udevlibexec_SCRIPTS = \
         write_cd_rules \
         write_net_rules
 
